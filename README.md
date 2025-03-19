@@ -3,6 +3,8 @@
 ## Overview
 Mood Tracker is a simple web application that allows users to log their daily mood and visualize their emotional trends over time. It helps users reflect on their mood patterns and gain insights into their emotional well-being.
 
+**🔗 Live Demo:** [Mood Tracker](https://prem-prabhat.github.io/EmoTrack/)
+
 ## Features
 - Users can select and log their mood each day using predefined emoji-based options.
 - Moods are stored in **LocalStorage**, ensuring that data persists across sessions.
